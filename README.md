@@ -1,4 +1,4 @@
-# Simple mechanism rules the dynamics of volleyball (DATA)
+# Simple mechanism rules the dynamics of volleyball
 
 The python program gui4_en.py is a visualization program that allows extracting information from video records of volleyball games.  
 The program is designed for a trained operator to record the most relevant events observed during rallies. 
